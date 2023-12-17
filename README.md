@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://img.shields.io/badge/iPhone-black
+https://img.shields.io/badge/iPhone-black?logo=iphone&logoColor=white
 <!--
 **Iam-Ntwali/Iam-Ntwali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

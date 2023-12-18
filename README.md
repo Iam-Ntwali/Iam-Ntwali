@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Salut!👋&fontSize=50&fontColor=black&animation=twinkling&animation=fadeIn&type=waving&color=gradient&height=150&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?text=Salut!👋&fontSize=50&fontColor=black&animation=fadeIn&type=waving&color=gradient&height=150&section=header"/>
 </p>
 
 <div align='center'>
   <sup>I'm</sup>
-  <strong style="font-size:30px">Ntwali</strong>
-  <code style="font-size:15px">from</code>
-  <span style="font-size:30px">🇷🇼</span>
+  <strong style="font-size:50px">Ntwali</strong>
+  <code style="font-size:25px">from</code>
+  <span style="font-size:50px">🇷🇼</span>
 
 **`🚀 Tech Enthusiast n Self-Taught Developer 👨‍💻`**
 

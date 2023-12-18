@@ -3,10 +3,7 @@
 </p>
 
 <div align='center'>
-  <sup>I'm</sup>
-  <strong style="font-size:50px">Ntwali</strong>
-  <code style="font-size:25px">from</code>
-  <span style="font-size:50px">🇷🇼</span>
+  ### <sup>Iam</sup> Ntwali `from` 🇷🇼
 
 **`🚀 Tech Enthusiast n Self-Taught Developer 👨‍💻`**
 
@@ -53,14 +50,14 @@
   <tr>
     <td>
        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="quotes"
-       height="400"
+       height="300"
       />
     </td>
     <td>
       <img
         src='https://randommeme-five.vercel.app/'
         alt=""
-        height="400"
+        height="300"
       />
     </td>
   </tr>

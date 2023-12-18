@@ -4,7 +4,7 @@
 
 <div align='center'>
   
-  ## <sup>Iam</sup> Ntwali **`from`** 🇷🇼
+  # <sup>Iam</sup> **`Ntwali`** from 🇷🇼
 
 **`🚀 Tech Enthusiast n Self-Taught Developer 👨‍💻`**
 

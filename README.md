@@ -52,12 +52,15 @@
   </tr>
   <tr>
     <td>
-       <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="quotes" />
+       <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="quotes"
+       height="400"
+      />
     </td>
     <td>
       <img
         src='https://randommeme-five.vercel.app/'
         alt=""
+        height="400"
       />
     </td>
   </tr>

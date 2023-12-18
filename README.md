@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Salut!👋&fontSize=50&fontColor=black&animation=fadeIn&type=waving&color=gradient&height=150&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?text=Salut!👋&fontSize=50&fontColor=black&animation=twinkling&animation=fadeIn&type=waving&color=gradient&height=150&section=header"/>
 </p>
 
 <div align='center'>
@@ -43,7 +43,7 @@
 
 ---
 
-### Things that goes together 😆
+### 🤝🏾 Things that go together for Devs
 
 <table>
   <tr>

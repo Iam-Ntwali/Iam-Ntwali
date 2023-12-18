@@ -22,7 +22,7 @@
 
 #### 🛝 Environment:
 
-<img src="https://img.shields.io/badge/windows-00BBFF?style=for-the-badge&logo=windows&logoColor=white" alt="Twitter Badge"/> <img src="https://img.shields.io/badge/Fedora-blue?style=for-the-badge&logo=manjaro&logoColor=white" alt="Twitter Badge"/>
+<img src="https://img.shields.io/badge/Fedora-blue?style=for-the-badge&logo=fedora&logoColor=white" alt="Twitter Badge"/> <img src="https://img.shields.io/badge/Android-00c000?style=for-the-badge&logo=android&logoColor=white" alt="Android Badge"/> <img src="https://img.shields.io/badge/windows-00BBFF?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge"/>
 
 #### 📲 Devices:
 

@@ -3,9 +3,12 @@
 </p>
 
 <div align='center'>
-  <strong>I am Ntwali</strong> <code>from</code> 🇷🇼
+  <sup>I'm</sup>
+  <strong style="font-size:30px">Ntwali</strong>
+  <code style="font-size:15px">from</code>
+  <span style="font-size:30px">🇷🇼</span>
 
-**`Tech Enthusiast n Self-Taught Developer 💻`**
+**`🚀 Tech Enthusiast n Self-Taught Developer 👨‍💻`**
 
 #### 🌐 Socials:
 
@@ -28,25 +31,38 @@
 <img src="https://img.shields.io/badge/- pixel📱-red?style=for-the-badge&logo=google&logoColor=white" alt="Twitter Badge"/>
 <img src="https://img.shields.io/badge/ Elitebook 💻 -blue?style=for-the-badge&logo=hp&logoColor=white" alt="Twitter Badge"/>
 
+---
+
 #### 📊 GitHub Stats:
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=Iam-Ntwali&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Iam-Ntwali&theme=dracula&hide_border=true&height=10)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-Ntwali&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&height=100)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-Ntwali&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&height=100)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Iam-Ntwali&theme=dracula&hide_border=true&height=10)
 
 ---
 
-#### ✍️ Random Dev Quote
+### Things that goes together 😆
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table>
+  <tr>
+    <th>✍️ Random Dev Quote</th>
+    <th>😂 Random Dev Meme</th>
+  </tr>
+  <tr>
+    <td>
+       <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="quotes" />
+    </td>
+    <td>
+      <img
+        src='https://randommeme-five.vercel.app/'
+        alt=""
+      />
+    </td>
+  </tr>
+</table>
 
-#### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
-
-</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=150&section=footer"/>
 </p>

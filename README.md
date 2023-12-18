@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Salut!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Salut!👋&fontSize=50&fontColor=black&animation=fadeIn&type=waving&color=gradient&height=150&section=header"/>
 </p>
 
 <div align='center'>
+  <strong>I am Ntwali</strong> <code>from</code> 🇷🇼
 
-### 🚀 I am Ntwali `from` 🇷🇼
-
-**` Tech Enthusiast n Self- Taught Developer 💻`**
+**`Tech Enthusiast n Self-Taught Developer 💻`**
 
 #### 🌐 Socials:
 
@@ -34,8 +33,10 @@
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=Iam-Ntwali&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Iam-Ntwali&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-Ntwali&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Iam-Ntwali&theme=dracula&hide_border=true&height=10)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-Ntwali&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&height=100)
+
+---
 
 #### ✍️ Random Dev Quote
 
@@ -43,9 +44,9 @@
 
 #### 😂 Random Dev Meme
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-![Snake animation](https://github.com/Iam-Ntwali/Iam-Ntwali/blob/output/github-contribution-grid-snake.svg)
+<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
 
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=150&section=footer"/>
+</p>

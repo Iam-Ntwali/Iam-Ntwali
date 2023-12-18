@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Salut!👋&fontSize=50&fontColor=black&animation=fadeIn&type=waving&color=gradient&height=150&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?text=Salut!👋&fontSize=50&fontColor=00BBFF&animation=fadeIn&type=waving&color=gradient&height=150&section=header"/>
 </p>
 
 <div align='center'>
   
-  # <sup>Iam</sup> **`Ntwali`** from 🇷🇼
+  # <sup>Iam</sup> **`Ntwali`** <sub>from</sub> 🇷🇼
 
 **`🚀 Tech Enthusiast n Self-Taught Developer 👨‍💻`**
 

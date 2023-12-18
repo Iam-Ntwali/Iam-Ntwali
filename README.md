@@ -46,5 +46,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
+![Snake animation](https://github.com/Iam-Ntwali/Iam-Ntwali/blob/output/github-contribution-grid-snake.svg)
 
 </div>

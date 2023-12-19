@@ -7,8 +7,8 @@
   # <sup>Iam</sup> **`Ntwali`** <sub>from</sub> 🇷🇼
 
 **`🚀 Tech Enthusiast & Self-Taught Developer 👨‍💻`** <br/>
-**`I do Web & Mobile App Development `**<br/>
-**`I'm passionate learn, always eager to master new skills 💯`**
+**`Web & Mobile Developer`**<br/>
+**`I'm passionate learner, always eager to master new skills 💯`**
 
 #### 🌐 Socials:
 

@@ -12,7 +12,7 @@
 
 #### 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam-ntwali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Iam-Ntwali)
+[![Discord](https://img.shields.io/badge/Discord-5865f2.svg?logo=discord&logoColor=white)](https://discord.com/channels/iam-ntwali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Iam-Ntwali)
 
 #### 💻 Tech Stack:
 

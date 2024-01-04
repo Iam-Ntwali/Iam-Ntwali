@@ -46,7 +46,7 @@
 
 ### 🤝🏾 Things that go together for Devs
 
-<table>
+<table border = '0'>
   <tr>
     <th>✍️ Random Quote</th>
     <th>😂 Random Meme</th>

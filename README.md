@@ -3,8 +3,8 @@
 </p>
 
 <div align='center'>
-  
-  # <sup>Iam</sup> **`Ntwali`** <sub>from</sub> 🇷🇼
+
+# <sup>Iam</sup> **`Ntwali`** <sub>from</sub> 🇷🇼
 
 **`🚀 Tech Enthusiast & Self-Taught Developer 👨‍💻`** <br/>
 **`Web & Mobile Developer`**<br/>
@@ -39,7 +39,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Iam-Ntwali&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-Ntwali&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Iam-Ntwali&theme=dracula&hide_border=true)
+
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Iam-Ntwali&theme=dracula&hide_border=true) -->
 
 ---
 
@@ -47,8 +48,8 @@
 
 <table>
   <tr>
-    <th>✍️ Random Dev Quote</th>
-    <th>😂 Random Dev Meme</th>
+    <th>✍️ Random Quote</th>
+    <th>😂 Random Meme</th>
   </tr>
   <tr>
     <td>

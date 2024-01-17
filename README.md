@@ -44,7 +44,7 @@
 
 ---
 
-### 🤝🏾 Things that go together for Devs
+<!-- ### 🤝🏾 Things that go together for Devs
 
 <table border = '0'>
   <tr>
@@ -65,7 +65,7 @@
       />
     </td>
   </tr>
-</table>
+</table> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=150&section=footer"/>

@@ -93,7 +93,7 @@
   <img
     src="https://img.shields.io/badge/Pixel📱-red?style=for-the-badge&logo=google&logoColor=white)" alt="Twitter Badge"/>
 </a>
-<a href='https://www.hp.com' target='_blanket'>
+<a href='https://support.hp.com/id-en/document/c05997454' target='_blanket'>
   <img src="https://img.shields.io/badge/Elitebook 💻-blue?style=for-the-badge&logo=hp&logoColor=white)" alt="Twitter Badge"/>
 </a>
 

@@ -28,7 +28,7 @@
     /> <img
         src='https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white'
         alt='SASS'
-      />
+      /> <br />
 <img
   src='https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black'
   alt='JavaScript'
@@ -44,7 +44,7 @@
       /> <img
           src='https://img.shields.io/badge/Dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white'
           alt='Dart'
-        />
+        /> <br />
 <img
   src='https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white'
   alt='git'
@@ -54,7 +54,7 @@
   /> <img
       src='https://img.shields.io/badge/Netlify-00C7B7?style=plastic&logo=netlify&logoColor=white'
       alt='Netlify'
-    />
+    /> <br />
 <img
   src='https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white'
   alt=''
@@ -89,8 +89,13 @@
 
 ### 📲 Devices:
 
-<img src="https://img.shields.io/badge/- pixel📱-red?style=for-the-badge&logo=google&logoColor=white" alt="Twitter Badge"/>
-<img src="https://img.shields.io/badge/ Elitebook 💻 -blue?style=for-the-badge&logo=hp&logoColor=white" alt="Twitter Badge"/>
+<a href='https://store.google.com' target='_blanket'>
+  <img
+    src="https://img.shields.io/badge/Pixel📱-red?style=for-the-badge&logo=google&logoColor=white)" alt="Twitter Badge"/>
+</a>
+<a href='https://www.hp.com' target='_blanket'>
+  <img src="https://img.shields.io/badge/Elitebook 💻-blue?style=for-the-badge&logo=hp&logoColor=white)" alt="Twitter Badge"/>
+</a>
 
 ---
 

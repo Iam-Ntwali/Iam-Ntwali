@@ -14,7 +14,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-5865f2.svg?logo=discord&logoColor=white)](https://discord.com/channels/iam-ntwali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Iam-Ntwali)
 
-### 💻 Some Tech Stack:
+### 💻 Some Tech Skills:
 
 <img
   src='https://img.shields.io/badge/HTML5-%23F24E1E.svg?style=plastic&logo=html5&logoColor=white'

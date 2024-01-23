@@ -76,7 +76,16 @@
 
 ### 🛝 Environment:
 
-<img src="https://img.shields.io/badge/Fedora-blue?style=for-the-badge&logo=fedora&logoColor=white" alt="Twitter Badge"/> <img src="https://img.shields.io/badge/Android-00c000?style=for-the-badge&logo=android&logoColor=white" alt="Android Badge"/> <img src="https://img.shields.io/badge/windows-00BBFF?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge"/>
+<a href='https://getfedora.org/' target='_blanket'>
+  <img
+    src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)" alt="Fedora"/>
+</a>
+<a href='https://www.android.com' target='_blanket'>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()" alt="Android Badge"/>
+</a>
+<a href='https://www.microsoft.com/en-us/windows' target='_blanket'>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)" alt="Windows Badge"/>
+</a>
 
 ### 📲 Devices:
 

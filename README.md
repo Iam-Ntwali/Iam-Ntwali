@@ -78,23 +78,23 @@
 
 <a href='https://getfedora.org/' target='_blanket'>
   <img
-    src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)" alt="Fedora"/>
+    src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
 </a>
 <a href='https://www.android.com' target='_blanket'>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()" alt="Android Badge"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Badge"/>
 </a>
 <a href='https://www.microsoft.com/en-us/windows' target='_blanket'>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)" alt="Windows Badge"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge"/>
 </a>
 
 ### 📲 Devices:
 
 <a href='https://store.google.com' target='_blanket'>
   <img
-    src="https://img.shields.io/badge/Pixel📱-red?style=for-the-badge&logo=google&logoColor=white)" alt="Twitter Badge"/>
+    src="https://img.shields.io/badge/Pixel📱-red?style=for-the-badge&logo=google&logoColor=white" alt="Pixel Badge"/>
 </a>
 <a href='https://support.hp.com/id-en/document/c05997454' target='_blanket'>
-  <img src="https://img.shields.io/badge/Elitebook 💻-blue?style=for-the-badge&logo=hp&logoColor=white)" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Elitebook 💻-blue?style=for-the-badge&logo=hp&logoColor=white" alt="HP Badge"/>
 </a>
 
 ---

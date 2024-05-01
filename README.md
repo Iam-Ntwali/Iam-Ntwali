@@ -72,7 +72,7 @@
 
 <a href='https://getfedora.org/' target='_blanket'>
   <img
-    src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
+    src="https://img.shields.io/badge/Nobara-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
 </a>
 <a href='https://www.android.com' target='_blanket'>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Badge"/>

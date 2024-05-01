@@ -7,7 +7,7 @@
 # <sup>Iam</sup> **`Ntwali`** <sub>from</sub> 🇷🇼
 
 **`🚀 Tech Enthusiast & Self-Taught Developer 👨‍💻`** <br/>
-**`I'm a Web & Mobile Developer`**<br/>
+**`I develop Web & Mobile based Apps`**<br/>
 **`I'm a passionate learner, always eager to master new skills 💯`**
 
 ### 🌐 Socials:
@@ -16,19 +16,13 @@
 
 ### 💻 Some Tech Skills:
 
-<img
-  src='https://img.shields.io/badge/HTML5-%23F24E1E.svg?style=plastic&logo=html5&logoColor=white'
-  alt='HTML5'
-/> <img
-    src='https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white'
-    alt='CSS3'
-  /> <img
-      src='https://img.shields.io/badge/tailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white'
+<!---<img      src='https://img.shields.io/badge/tailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white'
       alt='tailwindCSS'
-    /> <img
-        src='https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white'
+    /> 
+<img
+    src='https://img.shields.io/badge/SASS hotpink.svg?style=plastic&logo=SASS&logoColor=white'
         alt='SASS'
-      /> <br />
+      /> <br />-->
 <img
   src='https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black'
   alt='JavaScript'

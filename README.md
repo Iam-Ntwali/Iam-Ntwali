@@ -68,7 +68,7 @@
 
 <!-- ![TailwindCSS](https://img.shields.io/badge/tailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)  -->
 
-### 🛝 Environment:
+<!-- ### 🛝 Environment:
 
 <a href='https://getfedora.org/' target='_blanket'>
   <img
@@ -90,7 +90,37 @@
 <a href='https://support.hp.com/id-en/document/c05997454' target='_blanket'>
   <img src="https://img.shields.io/badge/Elitebook 💻-blue?style=for-the-badge&logo=hp&logoColor=white" alt="HP Badge"/>
 </a>
-
+-->
+<table border = '0'>
+  <tr>
+    <th>🛝 Environment:</th>
+    <th>📲 Devices:</th>
+  </tr>
+  <tr>
+    <td>
+      <a href='https://getfedora.org/' target='_blanket'>
+  <img
+    src="https://img.shields.io/badge/Nobara-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
+</a>
+      <a href='https://www.android.com' target='_blanket'>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Badge"/>
+</a>
+<a href='https://www.microsoft.com/en-us/windows' target='_blanket'>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge"/>
+</a>
+    </td>
+    <td>
+     <a href='https://store.google.com' target='_blanket'>
+  <img
+    src="https://img.shields.io/badge/Pixel📱-red?style=for-the-badge&logo=google&logoColor=white" alt="Pixel Badge"/>
+</a> 
+      </a>
+<a href='https://support.hp.com/id-en/document/c05997454' target='_blanket'>
+  <img src="https://img.shields.io/badge/Elitebook 💻-blue?style=for-the-badge&logo=hp&logoColor=white" alt="HP Badge"/>
+</a>
+    </td>
+  </tr>
+</table> -->
 ---
 
 ### 📊 GitHub Stats:

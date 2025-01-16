@@ -8,8 +8,8 @@
 
 # <sup>Iam</sup> **`Ntwali`** <sub>from</sub> 🇷🇼
 
-**`🚀 Tech Enthusiast & Self-Taught Developer 👨‍💻`** <br/>
-**`⛳ I develop Web & Mobile based Apps`**<br/>
+**`🚀 Tech Enthusiast & Self-taught Developer 👨‍💻`** <br/>
+**`⛳ I build Web Apps, plus I can fix a printer too 😁`**<br/>
 **`👉 I'm a passionate learner, always eager to master new skills 💯`**
 
 ### 🌐 Socials:

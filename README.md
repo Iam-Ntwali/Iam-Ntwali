@@ -8,8 +8,8 @@
 
 # <sup>Iam</sup> **`Ntwali`** <sub>from</sub> 🇷🇼
 
-**`🚀 Tech Enthusiast & Self-taught Developer 👨‍💻`** <br/>
-**`⛳ I build Web Apps, plus I can fix a printer too 😁`**<br/>
+**`🚀 I am a Self-taught Tech Enthusiast 👨‍💻`** <br/>
+**`⛳ I build things that live on the web, plus I can fix a printer too 😁`**<br/>
 **`👉 I'm a passionate learner, always eager to master new skills 💯`**
 
 ### 🌐 Socials:
@@ -32,9 +32,11 @@
       <a href='https://www.android.com' target='_blanket'>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Badge"/>
       </a>
+      <!--
       <a href='https://www.microsoft.com/en-us/windows' target='_blanket'>
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge"/>
       </a>
+      -->
     </td>
     <td>
      <a href='https://store.google.com' target='_blanket'>

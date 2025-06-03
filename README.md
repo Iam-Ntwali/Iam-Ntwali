@@ -55,7 +55,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-Ntwali&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Iam-Ntwali&theme=dracula&hide_border=true) 
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Iam-Ntwali&theme=dracula&hide_border=true) -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=150&section=footer"/>

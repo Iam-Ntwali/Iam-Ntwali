@@ -10,11 +10,12 @@
 
 **`🚀 I am a Self-taught Tech Enthusiast 👨‍💻`** <br/>
 **`⛳ I build things that live on the web, plus I can fix a printer too 😁`**<br/>
-**`👉 I'm a passionate learner, always eager to master new skills 💯`**
+**`👉 I'm a passionate learner, always eager to master new skills 💯`**<br/>
+**`💼 Currently working as SAP Junior Software Engineer at`** [**`DCCS IT Business Solutions`**](https://dccs.eu)
 
 ### 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-5865f2.svg?logo=discord&logoColor=white)](https://discord.com/channels/iam-ntwali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Iam-Ntwali)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pntwalii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Iam-Ntwali)
 
 <!-- ### 🛝 Environment:
 

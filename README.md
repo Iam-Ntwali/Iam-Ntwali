@@ -13,9 +13,9 @@
 **`👉 I'm a passionate learner, always eager to master new skills 💯`**<br/>
 **`💼 Currently working as SAP Junior Software Engineer at`** [**`DCCS IT Business Solutions`**](https://dccs.eu)
 
-### 🌐 Socials:
+<!-- ### 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pntwalii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Iam-Ntwali)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pntwalii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Iam-Ntwali) -->
 
 <!-- ### 🛝 Environment:
 
